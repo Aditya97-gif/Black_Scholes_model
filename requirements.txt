@@ -1,0 +1,5 @@
+gfin
+numpy
+pandas
+matplotlib.pyplot
+scipy

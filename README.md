@@ -1,0 +1,1 @@
+Using python I have simulated the infamous black scholes model on a random brownian motion depicting the stock price movement. The code is self explanatory showing how to use the model to trade options. At the end you are responisble for your own act so use the model statistically and not emotionally.
